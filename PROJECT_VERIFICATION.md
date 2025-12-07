@@ -104,9 +104,9 @@ The report includes:
 - Challenges and Solutions
 - Conclusion
 - Group Members:
-  - Muhammad Yousuf Khan (21i-1238)
-  - Zain (22i-2738)
-  - Abad Naseer (20i-1815)
+  - Muhammad Sarmad Hassan
+  - Mirza Mukarram
+  - Muhammad Awaimer
 
 ### Using the Report in Overleaf
 
