@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Characterization tests for POSSystem (authentication and routing)
+ * Characterization tests for POSSystem (authentication and routing) and its methods.
  */
 public class POSSystemTest {
     
