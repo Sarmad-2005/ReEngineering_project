@@ -35,7 +35,7 @@ public class InventoryTest {
         String databaseFile = "Database/itemDatabase.txt";
         boolean result = inventory.accessInventory(databaseFile, databaseItems);
         
-        // Should successfully read file if it exists
+        // Should successfully read file if it exists and is not empty.
         assertTrue("Should be able to access inventory file", result);
         assertTrue("Database items list should be populated", databaseItems.size() > 0);
     }
