@@ -38,7 +38,7 @@ public class EmployeeTest {
     }
 
     /**
-     * Test of getUsername method, of class Employee.
+     * Test of getUsername method, of class Employee and its subclass Admin.
      */
     @Test
     public void testGetUsername() {
